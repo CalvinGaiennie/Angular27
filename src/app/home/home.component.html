@@ -1,0 +1,9 @@
+<app-header></app-header>
+<button (click)="switchPages()">Switch Pages</button>
+<div *ngIf="display; else input">
+  <app-display></app-display>
+</div>
+
+<ng-template #input>
+  <app-input></app-input>
+</ng-template>
