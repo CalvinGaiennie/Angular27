@@ -1,11 +1,3 @@
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.csproj.AssemblyReference.cache
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.GeneratedMSBuildEditorConfig.editorconfig
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.AssemblyInfoInputs.cache
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.AssemblyInfo.cs
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.csproj.CoreCompileInputs.cache
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.MvcApplicationPartsAssemblyInfo.cs
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.MvcApplicationPartsAssemblyInfo.cache
-/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.sourcelink.json
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/appsettings.Development.json
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/appsettings.json
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/MongoApi.staticwebassets.endpoints.json
@@ -22,6 +14,14 @@
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/SharpCompress.dll
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/Snappier.dll
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/bin/Debug/net9.0/ZstdSharp.dll
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.csproj.AssemblyReference.cache
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.AssemblyInfoInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.AssemblyInfo.cs
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.csproj.CoreCompileInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/MongoApi.sourcelink.json
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/scopedcss/bundle/MongoApi.styles.css
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/staticwebassets.build.json
 /Users/calvingaiennie/Documents/GitHub/Angular27/MongoApi/obj/Debug/net9.0/staticwebassets.development.json
